@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dropalways&label=Profile%20views&color=0e75b6&style=flat" alt="dropalways" /> </p>
 
-- 🔭 I’m currently working on **Enigma(Private)**
+- 🔭 I’m currently working on **[Enigma](https://github.com/dropalways/enigma)**
 
 - ⚡ Fun fact **I will learn how to code someday**
 
