@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dropalways&label=Profile%20views&color=0e75b6&style=flat" alt="dropalways" /> </p>
 
-- 🔭 I’m currently working on **[Enigma](https://github.com/dropalways/enigma)**
+- 🔭 I’m currently working on **Nothing right now**
 
-- ⚡ Fun fact **I will learn how to code someday**
+- ⚡ Fun fact **I am ass at coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
