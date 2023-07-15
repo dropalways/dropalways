@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dropalways&label=Profile%20views&color=0e75b6&style=flat" alt="dropalways" /> </p>
 
-- 🔭 I’m currently working on **(Netcry)[https://github.com/dropalways/netcry-nuker]**
+- 🔭 I’m currently working on **[Netcry](https://github.com/dropalways/netcry-nuker)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
