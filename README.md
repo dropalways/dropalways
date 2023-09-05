@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://e-z.bio/az" target="blank"><img align="center" src="https://r2.e-z.host/eztransparent.png" alt="bio" height="30" width="40" /></a>
+<a href="https://e-z.bio/az" target="blank"><img align="center" src="https://r2.e-z.host/eztransparent.png" alt="bio" height="30" width="40" /></a> <a href="https://discord.com/users/1096266990940852266" target="blank"><img align="center" src="https://clipartcraft.com/images/discord-logo-transparent-better.png" alt="bio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
