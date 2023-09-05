@@ -17,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dropalways&show_icons=true&locale=en" alt="dropalways" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dropalways&" alt="dropalways" /></p>
 
