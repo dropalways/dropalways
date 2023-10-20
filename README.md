@@ -1,5 +1,4 @@
 <h1 align="center">hey im always</h1>
-<h3 align="center">the smartest skid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dropalways&label=Profile%20views&color=0e75b6&style=flat" alt="dropalways" /> </p>
 
