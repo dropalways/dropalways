@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://lanyard-profile-readme.vercel.app/api/831201655097131068" alt="dropalways" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dropalways&show_icons=true&theme=transparent" alt="dropalways" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dropalways&show_icons=true&theme=transparent" alt="dropalways" /></p>
 
 
