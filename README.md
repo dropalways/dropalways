@@ -10,10 +10,6 @@
 <a href="https://discord.com/users/831201655097131068" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="bio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dropalways&layout=compact&langs_count=5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
